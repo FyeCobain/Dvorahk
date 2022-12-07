@@ -1,4 +1,4 @@
-# Dvorahk 1.0.0
+# Dvorahk 0.2.0-alpha
 
 > Script de AutoHotkey para layout de teclado Dvorak en español (ISO 105). 
 
