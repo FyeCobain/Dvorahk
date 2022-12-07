@@ -1,8 +1,4 @@
-﻿#NoEnv
-SendMode, Input
-SetWorkingDir, %A_ScriptDir%
-
-b::x
+﻿b::x
 B::X
 c::j
 C::J
