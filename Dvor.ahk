@@ -1,4 +1,5 @@
-﻿b::x
+﻿; Teclas principales
+b::x
 c::j
 d::e
 e::ñ
